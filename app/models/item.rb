@@ -20,5 +20,5 @@ class Item < ApplicationRecord
   validates_attachment_content_type :image, :content_type => ["image/jpg", "image/jpeg", "image/png"]
 
   enum status: [ "active", "retired" ]
-
+  # 
 end
