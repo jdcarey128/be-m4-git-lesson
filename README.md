@@ -1,3 +1,8 @@
+### Added comments 
+Hello there! 
+These are new lines that don't achieve anything 
+
+
 ### Wireframin'
 #### Schema
 ![schema](https://content.screencast.com/users/dionew1/folders/Jing/media/9fe2493a-c952-4179-ae3e-ffeeebe9cc80/00000063.png)
